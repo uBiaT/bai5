@@ -1,0 +1,8 @@
+C:\Users\hv\source\repos\bai5_2\bin\Debug\bai5_2.exe.config
+C:\Users\hv\source\repos\bai5_2\bin\Debug\bai5_2.exe
+C:\Users\hv\source\repos\bai5_2\bin\Debug\bai5_2.pdb
+C:\Users\hv\source\repos\bai5_2\obj\Debug\bai5_2.csproj.AssemblyReference.cache
+C:\Users\hv\source\repos\bai5_2\obj\Debug\bai5_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\hv\source\repos\bai5_2\obj\Debug\bai5_2.csproj.CoreCompileInputs.cache
+C:\Users\hv\source\repos\bai5_2\obj\Debug\bai5_2.exe
+C:\Users\hv\source\repos\bai5_2\obj\Debug\bai5_2.pdb
